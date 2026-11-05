@@ -653,7 +653,6 @@ PRODUCT_PACKAGES += \
     libopestriping \
     libos \
     libportrait_blur \
-    libpowercore \
     libqll10 \
     libqllengine \
     librelight_only \
