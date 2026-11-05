@@ -659,19 +659,11 @@ PRODUCT_PACKAGES += \
     libremosaic_wrapper \
     libremosaiclib \
     libsdk_sr \
-    libsensorcal \
-    libsensorslog \
     libsnpe_dsp_domains_v2 \
     libsnpe_dsp_domains_v3 \
     libsns_api \
-    libsns_device_mode_stub \
-    libsns_fastRPC_util \
-    libsns_low_lat_stream_stub \
     libsns_registry_skel \
     libsnsapi \
-    libsnsdiaglog \
-    libssc \
-    libssc_default_listener \
     libssccalapi \
     libsupermoon \
     libswregistrationalgo \
@@ -747,5 +739,3 @@ PRODUCT_PACKAGES += \
     libssrec_odm \
     batterysecret \
     init.qcom.sensors \
-    sensors.qti \
-    sscrpcd
