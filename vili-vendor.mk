@@ -683,7 +683,6 @@ PRODUCT_PACKAGES += \
     libultrasound \
     libvideoBokeh \
     libvideofilter_only \
-    libvideooptfeature \
     libvidhance \
     libwa_opticalzoom_fusion \
     libwa_opticalzoomfactor \
