@@ -393,7 +393,6 @@ PRODUCT_PACKAGES += \
     libaudioconfigstore \
     libaudioparsers \
     libaudioroute_ext \
-    libcomprcapture \
     libhdmipassthru \
     libqtigef \
     libresampler \
@@ -653,7 +652,6 @@ PRODUCT_PACKAGES += \
     libopestriping \
     libos \
     libportrait_blur \
-    libpowercore \
     libqll10 \
     libqllengine \
     librelight_only \
@@ -684,7 +682,6 @@ PRODUCT_PACKAGES += \
     libultrasound \
     libvideoBokeh \
     libvideofilter_only \
-    libvideooptfeature \
     libvidhance \
     libwa_opticalzoom_fusion \
     libwa_opticalzoomfactor \
